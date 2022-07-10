@@ -1,0 +1,89 @@
+h1 {
+    color: seagreen;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#formhead {
+    border-style: double;
+    border-width: 5px;
+    text-align: center;
+    padding: 2px;
+    background-color: #0fd88e;
+}
+
+form {
+
+    background-color: skyblue;
+
+
+    background-repeat: no-repeat;
+
+}
+
+
+h2 {
+    text-decoration-line: underline;
+}
+
+#submit {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+#buck {
+    border-style: double;
+    border-width: 5px;
+    text-align: center;
+    padding: 2px;
+    background-color: #7ee9c2;
+}
+
+.box {
+    background-color: #dffff3;
+}
+
+#micro {
+    background-color: rgba(243, 243, 243, 0.842);
+}
+
+#lip {
+    background-color: rgb(255, 238, 241);
+}
+
+#lashes {
+    background-color: #ddfffc;
+}
+
+#hdr {
+    border-style: double;
+    border-width: 5px;
+    text-align: left;
+    padding: 2px;
+    background-color: #7ee9c2;
+
+}
+
+#leftbox {
+    background-color: aliceblue;
+}
+#intro{
+    background-image: url(https://anjalisanghvi.com/wp-content/uploads/2021/08/image-19.webp) ;
+    background-size: 1000px;
+    width: 600px;
+    height: 600px;
+    border: 2px solid;
+    color: black;
+    background-repeat: no-repeat;
+    font-size: larger;
+    background-color: #0ba86f;
+}
+#about{
+    border-style: double;
+    background-color: #7ee9c2;
+}
