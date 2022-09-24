@@ -74,9 +74,9 @@ h2 {
 }
 #intro{
     background-image: url(https://anjalisanghvi.com/wp-content/uploads/2021/08/image-19.webp) ;
-    background-size: 1000px;
-    width: 600px;
-    height: 600px;
+    background-size: 1500px;
+    width: 100%;
+    height: 800px;
     border: 2px solid;
     color: black;
     background-repeat: no-repeat;
@@ -87,3 +87,8 @@ h2 {
     border-style: double;
     background-color: #7ee9c2;
 }
+@media screen and (max-width: 1200px) {
+    .main{
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
